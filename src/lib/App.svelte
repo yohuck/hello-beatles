@@ -26,7 +26,7 @@ $: {if (i % 2 == 0){
 </script>
 
 <main class = {toggle}>
-  <h1 class={toggleColor}>Hello {beatle}.</h1>
+  <h1 class={toggleColor}>Hello {beatle}</h1>
 </main>
 
 <style>
